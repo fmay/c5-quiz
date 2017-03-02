@@ -1,0 +1,144 @@
+{
+ "sections": [
+  {
+   "id": "f46600ed-4f86-2530-386b-0b2830f2ebf9",
+   "title": "Cryptography Quiz",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Cryptography-Quiz-f466.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c2f98ea5-1554-fe00-d0df-4d8036770338",
+   "title": "Teacher Info",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Teacher-Info-c2f9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": true
+  },
+  {
+   "id": "0b8d51be-d7a8-0825-c632-998e1a7151af",
+   "title": "Question 1",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": ".guides/img/acpptcryptokey.png",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Question-1-0b8d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "dd565238-8be4-27f6-976a-c1778ffd9174",
+   "title": "Question 2",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Question-2-dd56.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2631a77a-a80b-5e1e-4075-501a13396833",
+   "title": "Question 3",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "q3/file.txt",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Question-3-2631.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b028b75e-4790-453f-a03a-2a94acf4f3f9",
+   "title": "Question 4",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: cd q4",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "q4"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Question-4-b028.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "66f5e3c4-e364-1429-57dd-63912ed67504",
+   "title": "Essay question",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "essay/essay.md",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Essay-question-66f5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}

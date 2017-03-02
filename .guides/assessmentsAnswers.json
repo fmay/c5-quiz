@@ -1,0 +1,133 @@
+[
+ {
+  "taskId": "fill-in-the-blanks-3639100444",
+  "points": 1,
+  "state": {
+   "active": [
+    "public key",
+    "private key",
+    "password"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "public key",
+     "private key",
+     "password"
+    ],
+    "right": [
+     "public key",
+     "private key",
+     "password"
+    ],
+    "timestamp": 1488463116152
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-2738023190",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "test-1217055665",
+  "points": 0,
+  "results": [
+   {
+    "code": 1,
+    "output": "\nTraceback (most recent call last):\n  File \"aes.py\", line 75, in <module>\n    main()\n  File \"aes.py\", line 54, in main\n    password = raw_input('Enter Password (will be visible): ')\nEOFError: EOF when reading a line\ncat: out.txt: No such file or directory\nEnter Password (will be visible): You encrypted it but the password was wrong probably.",
+    "timestamp": 1488462247564
+   },
+   {
+    "code": 1,
+    "output": "\nYou encrypted it but the password was wrong probably.",
+    "timestamp": 1488461897836
+   },
+   {
+    "code": 1,
+    "output": "\nYou encrypted it but the password was wrong probably.",
+    "timestamp": 1488461880975
+   },
+   {
+    "code": 0,
+    "output": "\ndiff: q4.txt: No such file or directory\nWell done!!",
+    "timestamp": 1488461840233
+   },
+   {
+    "code": 0,
+    "output": "\ndiff: q4.txt: No such file or directory\nWell done!!",
+    "timestamp": 1488461556859
+   },
+   {
+    "code": 0,
+    "output": "\nWell done!!",
+    "timestamp": 1488461464244
+   },
+   {
+    "code": 0,
+    "output": "\nWell done!!",
+    "timestamp": 1488461456531
+   },
+   {
+    "code": 0,
+    "output": "\nWell done!!",
+    "timestamp": 1488461428832
+   },
+   {
+    "code": 0,
+    "output": "\n::\nWell done!!",
+    "timestamp": 1488461409732
+   },
+   {
+    "code": 1,
+    "output": "\n::\nWell done!!\n.guides/q4.sh: line 17: return: can only `return' from a function or sourced script",
+    "timestamp": 1488461303760
+   }
+  ]
+ },
+ {
+  "taskId": "code-output-compare-4081120042",
+  "points": 1,
+  "results": [
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Enter Password (will be visible): Hello world\"}]}",
+    "timestamp": 1488463314979
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Enter Password (will be visible): Hello world\"}]}",
+    "timestamp": 1488462705397
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Enter Password (will be visible): Hello world\"}]}",
+    "timestamp": 1488462702750
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Enter Password (will be visible): Hello world\"}]}",
+    "timestamp": 1488462667003
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"Enter Password (will be visible): Kc�Z\\u001f�\\u0001��Th\"}]}",
+    "timestamp": 1488462589535
+   },
+   {
+    "code": 0,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": true, \"stdout\": \"Enter Password (will be visible): Hello world\"}]}",
+    "timestamp": 1488462573077
+   },
+   {
+    "code": 2,
+    "output": "{\"sequence\": [{\"returnCode\": 0, \"stderr\": \"\", \"passed\": false, \"stdout\": \"\\nEnter Password (will be visible): Well done!!\\n\"}]}",
+    "timestamp": 1488462355447
+   }
+  ]
+ }
+]
