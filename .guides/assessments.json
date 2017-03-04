@@ -17,7 +17,7 @@
     },
     {
      "_id": "9d8fa6ea-ede8-c299-7a8d-6080a463169d",
-     "correct": false,
+     "correct": true,
      "answer": "Symmetric encyption"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
      "_id": "76add457-a6b0-9fbc-9a9d-17c8eb0f4035",
-     "correct": true,
+     "correct": false,
      "answer": "Asymmetric encryption"
     }
    ]
